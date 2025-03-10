@@ -1,3 +1,4 @@
 deeplearning-ai/.venv/
 deeplearning-ai/.env
 deeplearning-ai/install/
+deeplearning-ai/__pycache__/
